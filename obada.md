@@ -30,6 +30,4 @@ Blockquotes        |   Inline code
 
 [More info.](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
-:smiley:	 
-:smile:	
  

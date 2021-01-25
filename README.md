@@ -1,14 +1,16 @@
 # reading-notes
-# The space
+# growth mindset
 
-## Nasa "The National Aeronautics and Space Administration"
+## people are permanently improving their intelligence
 
-### The agency is building the Space Launch System rocket and the Orion spacecraft for human deep space exploration. With the help of commercial and international partners, NASA will develop new opportunities in lunar orbit, including a platform to aid surface exploration and serve as a gateway to Mars.
+### people believe that their most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point. This view creates a love of learning and a resilience that is essential for great accomplishments.
 
-![Space Launch System](https://www.nasa.gov/sites/default/files/thumbnails/image/screen_shot_2020-11-21_at_12.17.43_pm_0.png)
+![ mindset](https://images-na.ssl-images-amazon.com/images/I/81u+jLjLHgL.jpg)
 
-[More info.](https://www.nasa.gov/)
+[More info.](https://www.mindsetworks.com/science/)
 
-## Type of moons:
-1. Natural moon 
-2. Satellite
+## Perseverance, gumption traps, and maintaining a growth mindset:
+1. Challenges 
+2. Obstacles
+3. Effort
+4. Criticism

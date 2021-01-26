@@ -14,3 +14,12 @@
 2. Obstacles
 3. Effort
 4. Criticism
+
+## The groth mindest 
+
+ 1. People with a fixed mindset
+ 2. Those with a growth mindset
+
+# My name is obada
+
+

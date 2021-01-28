@@ -6,7 +6,7 @@ Logical operators — operators that combine multiple boolean expressions or val
 # Logical operators
 
 * There are three logical operators in JavaScript: || (OR), && (AND), ! (NOT).
-
+git
 Although they are called “logical”, they can be applied to values of any type, not only boolean. Their result can also be of any type.
 
 # JavaScript Loops

@@ -24,12 +24,7 @@ There are four types of loops in JavaScript.
 
 * The JavaScript for loop iterates the elements for the fixed number of times. It should be used if number of iteration is known
 
-* script 
-1. for (i=1; i<=5; i++) {
- 
-2. document.write(i + "<br/>")  }
-
-3. /script 
+* The for statement creates a loop that is executed as long as a condition is true. The loop will continue to run as long as the condition is true. It will only stop when the condition becomes false. JavaScript supports different kinds of loops: ... for/in - loops through the properties of an object.
 
 ## WHILE LOOPS
 

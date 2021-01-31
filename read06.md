@@ -1,5 +1,7 @@
-#  how to
-make your web pages more attractive,
+#  CSS
+* stands for Cascading Style Sheets
+
+## how tomake your web pages more attractive,
 controlling the design of them using CSS.
 
 * CSS allows you to create rules that specify how the content of
